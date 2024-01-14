@@ -157,9 +157,9 @@ cd ../checker
 
 echo ""
 test1
-# test2
-# test3
-# test4
+test2
+test3
+test4
 
 make clean &> /dev/null
 
